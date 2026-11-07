@@ -25,6 +25,24 @@
       "file": "data/lesson-04.json",
       "number": 4,
       "title": "Progress, independence & good bargains"
+    },
+    {
+      "id": "lesson-05",
+      "file": "data/lesson-05.json",
+      "number": 5,
+      "title": "Memory, messages & misunderstandings"
+    },
+    {
+      "id": "lesson-06",
+      "file": "data/lesson-06.json",
+      "number": 6,
+      "title": "Ideas, introductions & familiar faces"
+    },
+    {
+      "id": "lesson-07",
+      "file": "data/lesson-07.json",
+      "number": 7,
+      "title": "Habits, choices & unexpected lessons"
     }
   ]
 }
