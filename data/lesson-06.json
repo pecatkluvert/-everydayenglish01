@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-06",
+  "contentVersion": 1,
+  "number": 6,
+  "title": "Ideas, introductions & familiar faces",
+  "subtitle": "A dinner-table memory puzzle and a surprising high school reunion.",
+  "source": {
+    "file": "6 Illustrated_Everyday_Expressions_with_Stories_2.pdf",
+    "lesson": 6,
+    "pdfPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "printedExercisePages": [
+      41,
+      42
+    ],
+    "answerKey": "Answers inferred from the lesson definitions and exercise context; no published answer key is present in the supplied PDF.",
+    "transcription": "Obvious OCR errors and line-break hyphenation corrected. Exercise wording and option order retained except for explicitly noted typographical corrections. Long dialogue turns with multiple blanks are split into consecutive entries with the same speaker so that every entry contains one blank. The story retains its four numbered paragraphs. The printed typo “prefect choice” in practice question 4 is corrected to “perfect choice.” Subject–verb agreement in the source example “Neither Jim nor Amy are going...” is corrected to “Neither Jim nor Amy is going...”."
+  },
+  "expressions": [
+    {
+      "id": "as-a-rule",
+      "phrase": "as a rule",
+      "meaning": "most of the time; normally",
+      "examples": [
+        "You should eat less meat and more vegetables, as a rule.",
+        "As a rule, the teacher does not like it when students leave early."
+      ],
+      "dialogue": [
+        "A: Do you think I can eat this banana?",
+        "B: Well, as a rule, eating is not allowed on the subway."
+      ]
+    },
+    {
+      "id": "be-at-a-loss",
+      "phrase": "be at a loss",
+      "meaning": "be unable to think",
+      "examples": [
+        "She was at a loss about what to do with the elephant in the backyard.",
+        "I know the man you are talking about, but I'm at a loss to think of his name."
+      ],
+      "dialogue": [
+        "A: I am at a loss as to what to cook for dinner.",
+        "B: Let's order pizza!"
+      ]
+    },
+    {
+      "id": "come-up-with",
+      "phrase": "come up with",
+      "meaning": "think of",
+      "examples": [
+        "When did you come up with that idea?",
+        "He came up with a plan to solve the problem."
+      ],
+      "dialogue": [
+        "A: You named your dog Tweety?",
+        "B: It's the best I could come up with!"
+      ]
+    },
+    {
+      "id": "for-short",
+      "phrase": "for short",
+      "meaning": "a shorter way to say a name",
+      "examples": [
+        "My name is Alexander, but you can call me Alex for short.",
+        "I work for Seattle Auto Company or SAC for short."
+      ],
+      "dialogue": [
+        "A: What kind of car is that?",
+        "B: It's a sport utility vehicle — SUV for short."
+      ]
+    },
+    {
+      "id": "in-spite-of",
+      "phrase": "in spite of",
+      "meaning": "regardless of something; despite",
+      "examples": [
+        "In spite of the bad weather, we will go hiking.",
+        "The company kept hiring new employees in spite of its decreasing sales."
+      ],
+      "dialogue": [
+        "A: How was your trip to Mexico?",
+        "B: I had a great time in spite of the hurricane!"
+      ]
+    },
+    {
+      "id": "look-to-a-for-b",
+      "phrase": "look to A for B",
+      "meaning": "turn and ask A to give B",
+      "examples": [
+        "You should look to your parents for help if you don't have enough money.",
+        "He looked to his best friend for advice when he needed a job."
+      ],
+      "dialogue": [
+        "A: Don't worry about the test. We can study together.",
+        "B: It's nice to know that I can look to you for help. Thanks!"
+      ]
+    },
+    {
+      "id": "neither-a-nor-b",
+      "phrase": "neither A nor B",
+      "meaning": "both A and B do not or are not",
+      "examples": [
+        "Neither I nor my sister is as beautiful as my mother.",
+        "She looked for her professor, but he was neither in his office nor in the classroom."
+      ],
+      "dialogue": [
+        "A: Neither Jim nor Amy is going to the movie.",
+        "B: I guess it's just the two of us then."
+      ]
+    },
+    {
+      "id": "point-out",
+      "phrase": "point out",
+      "meaning": "indicate",
+      "examples": [
+        "The waiter pointed out the chef's special on the menu.",
+        "He pointed out the places he visited on the map."
+      ],
+      "dialogue": [
+        "A: Wow! That girl is really ugly!",
+        "B: I should point out that she's my sister."
+      ]
+    },
+    {
+      "id": "run-into",
+      "phrase": "run into",
+      "meaning": "meet by chance",
+      "examples": [
+        "I often run into people I know at the bus stop.",
+        "While I was in Hollywood, I ran into a famous actor in the supermarket."
+      ],
+      "dialogue": [
+        "A: What took you so long at the store?",
+        "B: I ran into my old elementary school teacher."
+      ]
+    },
+    {
+      "id": "when-it-comes-to",
+      "phrase": "when it comes to",
+      "meaning": "regarding; when dealing with",
+      "examples": [
+        "When it comes to explaining difficult subjects, she is the best teacher.",
+        "He doesn't know very much when it comes to cars."
+      ],
+      "dialogue": [
+        "A: Can you help me install this computer program?",
+        "B: Sorry. When it comes to computers, I am a real dunce."
+      ]
+    }
+  ],
+  "practice": {
+    "title": "Choose the best answer",
+    "sourcePdfPage": 4,
+    "questions": [
+      {
+        "id": "p1",
+        "prompt": "____, I never go swimming right after I eat.",
+        "options": [
+          "As a rule",
+          "In spite of",
+          "Neither here nor there"
+        ],
+        "answer": "As a rule",
+        "expressionId": "as-a-rule",
+        "explanation": "“As a rule” means normally or as a general habit. It introduces the speaker’s usual practice."
+      },
+      {
+        "id": "p2",
+        "prompt": "He was ____ for words when he won the award.",
+        "options": [
+          "at a loss",
+          "as a rule",
+          "for short"
+        ],
+        "answer": "at a loss",
+        "expressionId": "be-at-a-loss",
+        "explanation": "“At a loss for words” means unable to think of what to say, often because of surprise or strong emotion."
+      },
+      {
+        "id": "p3",
+        "prompt": "How did you ____ such a clever idea for a story?",
+        "options": [
+          "be at a loss",
+          "come up with",
+          "look to"
+        ],
+        "answer": "come up with",
+        "expressionId": "come-up-with",
+        "explanation": "“Come up with” means think of or create an idea. Use the base form after “did.”"
+      },
+      {
+        "id": "p4",
+        "prompt": "She was the perfect choice ____ finding someone to organize the conference.",
+        "options": [
+          "ran into",
+          "when it came to",
+          "was at a loss"
+        ],
+        "answer": "when it came to",
+        "expressionId": "when-it-comes-to",
+        "explanation": "“When it came to” means regarding the matter of something. The past tense matches “was.”"
+      },
+      {
+        "id": "p5",
+        "prompt": "There was no need to ____ the mistake. Everyone could see it.",
+        "options": [
+          "come up with",
+          "look to",
+          "point out"
+        ],
+        "answer": "point out",
+        "expressionId": "point-out",
+        "explanation": "“Point out” means indicate or draw attention to something. The mistake was already obvious."
+      },
+      {
+        "id": "p6",
+        "prompt": "He drank ____ because he was driving.",
+        "options": [
+          "neither beer nor wine",
+          "in spite of",
+          "for short"
+        ],
+        "answer": "neither beer nor wine",
+        "expressionId": "neither-a-nor-b",
+        "explanation": "“Neither A nor B” excludes both choices. He drank no beer and no wine because he was driving."
+      },
+      {
+        "id": "p7",
+        "prompt": "We ____ an old friend of ours at the movie theater.",
+        "options": [
+          "came up with",
+          "ran into",
+          "were at a loss"
+        ],
+        "answer": "ran into",
+        "expressionId": "run-into",
+        "explanation": "“Ran into” means met by chance. They unexpectedly met an old friend."
+      },
+      {
+        "id": "p8",
+        "prompt": "You could ____ your grandparents for information about your ancestors.",
+        "options": [
+          "point out",
+          "look to",
+          "run into"
+        ],
+        "answer": "look to",
+        "expressionId": "look-to-a-for-b",
+        "explanation": "“Look to A for B” means turn to someone to provide something. The grandparents may provide family information."
+      },
+      {
+        "id": "p9",
+        "prompt": "____ the terrible weather, we had a nice time on our vacation.",
+        "options": [
+          "In spite of",
+          "When it comes to",
+          "As a rule"
+        ],
+        "answer": "In spite of",
+        "expressionId": "in-spite-of",
+        "explanation": "“In spite of” means despite. They enjoyed the vacation even though the weather was bad."
+      },
+      {
+        "id": "p10",
+        "prompt": "Although our team name is the Buccaneers, people call us the Bucs ____.",
+        "options": [
+          "in spite of",
+          "as a rule",
+          "for short"
+        ],
+        "answer": "for short",
+        "expressionId": "for-short",
+        "explanation": "“For short” introduces a shortened version of a name. “Bucs” is shorter than “Buccaneers.”"
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "At the dinner table",
+    "sourcePdfPage": 5,
+    "wordBank": [
+      "am at a loss",
+      "coming up with",
+      "in spite of",
+      "for short",
+      "ran into",
+      "neither blonde hair nor"
+    ],
+    "lines": [
+      {
+        "id": "d1",
+        "speaker": "Alice",
+        "text": "Guess who I ____ today?",
+        "answer": "ran into",
+        "expressionId": "run-into",
+        "explanation": "Alice unexpectedly met someone earlier that day."
+      },
+      {
+        "id": "d2",
+        "speaker": "Tom",
+        "text": "Who?"
+      },
+      {
+        "id": "d3",
+        "speaker": "Alice",
+        "text": "Robert Smith!"
+      },
+      {
+        "id": "d4",
+        "speaker": "Tom",
+        "text": "Who?"
+      },
+      {
+        "id": "d5",
+        "speaker": "Alice",
+        "text": "Robert Smith, the boy who used to cut our lawn."
+      },
+      {
+        "id": "d6",
+        "speaker": "Tom",
+        "text": "I ____. What does he look like?",
+        "answer": "am at a loss",
+        "expressionId": "be-at-a-loss",
+        "explanation": "Tom cannot think of or remember the person Alice is describing."
+      },
+      {
+        "id": "d7",
+        "speaker": "Alice",
+        "text": "Remember? He had blonde hair and glasses. He was really short."
+      },
+      {
+        "id": "d8",
+        "speaker": "Tom",
+        "text": "Nope. I'm not ____ any kid like that in my memory.",
+        "answer": "coming up with",
+        "expressionId": "come-up-with",
+        "explanation": "Tom is not able to think of a child who fits that description."
+      },
+      {
+        "id": "d9",
+        "speaker": "Alice",
+        "text": "Anyway, he's starting college. Now he has ____ glasses. He has dark hair and he's much taller.",
+        "answer": "neither blonde hair nor",
+        "expressionId": "neither-a-nor-b",
+        "explanation": "Robert no longer has either of the two identifying features: blonde hair or glasses."
+      },
+      {
+        "id": "d10",
+        "speaker": "Alice",
+        "text": "But ____ the fact that he is grown up, he still chews bubble gum!",
+        "answer": "in spite of",
+        "expressionId": "in-spite-of",
+        "explanation": "He still chews bubble gum despite being grown up."
+      },
+      {
+        "id": "d11",
+        "speaker": "Tom",
+        "text": "Now I remember him! We used to call him Bob ____.",
+        "answer": "for short",
+        "expressionId": "for-short",
+        "explanation": "“Bob” is a shortened form of Robert’s name."
+      },
+      {
+        "id": "d12",
+        "speaker": "Alice",
+        "text": "Right! Bubble Gum Bob!"
+      }
+    ]
+  },
+  "story": {
+    "title": "Idioms in context",
+    "sourcePdfPage": 6,
+    "paragraphs": [
+      "My husband and I went to a high school reunion party in our old town. Almost one hundred people were there. As a rule, I enjoy meeting people. But when it comes to large, noisy parties, I get very tired. I told my husband that I would prefer not to stay for too long. My husband pointed out that we should at least say hello to the people that we knew. We did run into several old friends at the party, so in spite of the crowd I still had a good time.",
+      "During the party, a young man came up to us. “Hello, Mr. and Mrs. Brown,” he said to us.",
+      "He looked familiar, but I didn’t know where I had seen the young man before. I knew it was no use looking to my husband for help. He is terrible at coming up with names to match with faces. This time, we were both at a loss to think of his name. We talked with the young man for a while and then a couple came up to us. It was Don and Liz Wilson. (Her name is Elizabeth, but everyone calls her Liz for short). They were friends of ours. We had kept in touch, but had not seen them for many years.",
+      "The young man left after a few minutes to talk with some of his other friends. I told the Wilsons, “I’m sorry we did not introduce you to that nice young man. Neither my husband nor I could figure out his name.” “That’s all right,” said Mr. Wilson, “He is our son.”"
+    ],
+    "highlights": [
+      {
+        "text": "As a rule",
+        "expressionId": "as-a-rule"
+      },
+      {
+        "text": "when it comes to",
+        "expressionId": "when-it-comes-to"
+      },
+      {
+        "text": "pointed out",
+        "expressionId": "point-out"
+      },
+      {
+        "text": "run into",
+        "expressionId": "run-into"
+      },
+      {
+        "text": "in spite of",
+        "expressionId": "in-spite-of"
+      },
+      {
+        "text": "looking to my husband for help",
+        "expressionId": "look-to-a-for-b"
+      },
+      {
+        "text": "coming up with",
+        "expressionId": "come-up-with"
+      },
+      {
+        "text": "were both at a loss",
+        "expressionId": "be-at-a-loss"
+      },
+      {
+        "text": "for short",
+        "expressionId": "for-short"
+      },
+      {
+        "text": "Neither my husband nor I",
+        "expressionId": "neither-a-nor-b"
+      }
+    ]
+  }
+}
