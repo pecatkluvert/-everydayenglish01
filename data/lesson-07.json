@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-07",
+  "contentVersion": 1,
+  "number": 7,
+  "title": "Habits, choices & unexpected lessons",
+  "subtitle": "An argument in the car and a clever plan for laundry day.",
+  "source": {
+    "file": "7 Illustrated_Everyday_Expressions_with_Stories_2.pdf",
+    "lesson": 7,
+    "pdfPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "printedExercisePages": [
+      47,
+      48
+    ],
+    "answerKey": "Answers inferred from the lesson definitions and exercise context; no published answer key is present in the supplied PDF.",
+    "transcription": "Obvious OCR errors and line-break hyphenation corrected. Exercise wording and option order retained except for explicitly noted typographical corrections. Long dialogue turns with multiple blanks are split into consecutive entries with the same speaker so that every entry contains one blank. The story retains its four numbered paragraphs. The printed typo “coins pack into the pocket” is corrected to “coins back into the pocket.” Both occurrences of “have to” are highlighted. The omitted subject in “Then stood up...” is restored as “Then he stood up...”."
+  },
+  "expressions": [
+    {
+      "id": "add-to",
+      "phrase": "add to",
+      "meaning": "make larger; increase",
+      "examples": [
+        "The flooding only added to the problems caused by the storm.",
+        "The new research will add to our understanding of genetics."
+      ],
+      "dialogue": [
+        "A: Mom, why are you giving me your dirty socks?",
+        "B: I want to add to your collection."
+      ]
+    },
+    {
+      "id": "day-after-day",
+      "phrase": "day after day",
+      "meaning": "every day for a long time",
+      "examples": [
+        "Day after day, she waited for a letter, but none came.",
+        "He walked past the house day after day without really noticing it."
+      ],
+      "dialogue": [
+        "A: How can that old man just sit in the park day after day?",
+        "B: That's a statue."
+      ]
+    },
+    {
+      "id": "go-through",
+      "phrase": "go through",
+      "meaning": "experience something unpleasant",
+      "examples": [
+        "He went through some medical tests last week.",
+        "When we travel, we always go through the same argument about where to stay."
+      ],
+      "dialogue": [
+        "A: Let's go on the roller coaster one more time!",
+        "B: No thanks. I don't want to go through that again."
+      ]
+    },
+    {
+      "id": "have-to",
+      "phrase": "have to",
+      "meaning": "must",
+      "examples": [
+        "We have to buy more bread.",
+        "I have to finish this paper by Monday."
+      ],
+      "dialogue": [
+        "A: Can you go to the movies with me?",
+        "B: Sorry. I have to babysit tonight."
+      ]
+    },
+    {
+      "id": "hit-upon",
+      "phrase": "hit upon",
+      "meaning": "suddenly think up",
+      "examples": [
+        "I hit upon a great idea for Amy's party while I was walking to school today.",
+        "How old was Einstein when he hit upon the idea of relativity?"
+      ],
+      "dialogue": [
+        "A: This banana pizza is delicious!",
+        "B: Thanks. I hit upon the idea while at the zoo yesterday."
+      ]
+    },
+    {
+      "id": "in-short",
+      "phrase": "in short",
+      "meaning": "briefly; in summary",
+      "examples": [
+        "In short, I believe everyone should vote against the new tax.",
+        "In short, I don't want to work here any more."
+      ],
+      "dialogue": [
+        "A: What did you think of the movie?",
+        "B: Well, in short, it was the worst movie I've seen this year."
+      ]
+    },
+    {
+      "id": "of-ones-own-accord",
+      "phrase": "of one's own accord",
+      "meaning": "without being asked",
+      "examples": [
+        "My brother decided to clean the house of his own accord.",
+        "Her parents were going to tell her to get a job, but she got one of her own accord."
+      ],
+      "dialogue": [
+        "A: Did you put the cat outside?",
+        "B: No, he opened the door and went out of his own accord."
+      ]
+    },
+    {
+      "id": "once-and-for-all",
+      "phrase": "once and for all",
+      "meaning": "forever; for good; finally",
+      "examples": [
+        "I am going to get rid of those cockroaches once and for all!",
+        "He decided to stop smoking once and for all."
+      ],
+      "dialogue": [
+        "A: Where are you going with that hammer?",
+        "B: I am going to make that car alarm stop once and for all!"
+      ]
+    },
+    {
+      "id": "give-rise-to",
+      "phrase": "give rise to",
+      "meaning": "cause something to happen",
+      "examples": [
+        "The meeting gave rise to some new plans for the future of the company.",
+        "The heavy rain gave rise to an increase in the number of mosquitoes."
+      ],
+      "dialogue": [
+        "A: I don't think we should leave the dog and cat alone together.",
+        "B: You're right. It could give rise to problems."
+      ]
+    },
+    {
+      "id": "resign-oneself-to",
+      "phrase": "resign oneself to",
+      "meaning": "accept a situation as unchangeable",
+      "examples": [
+        "She resigned herself to working in her father's company.",
+        "You don't have to resign yourself to the same kind of life your parents had."
+      ],
+      "dialogue": [
+        "A: Aren't you upset about your test score?",
+        "B: No. I just resigned myself to being a poor student!"
+      ]
+    }
+  ],
+  "practice": {
+    "title": "Choose the best answer",
+    "sourcePdfPage": 4,
+    "questions": [
+      {
+        "id": "p1",
+        "prompt": "He ____ do his homework now because he won't have time later.",
+        "options": [
+          "day after day",
+          "has to",
+          "in short"
+        ],
+        "answer": "has to",
+        "expressionId": "have-to",
+        "explanation": "“Has to” expresses necessity. The form “has” agrees with “he.”"
+      },
+      {
+        "id": "p2",
+        "prompt": "In Russia, I found some interesting stamps to ____ my collection.",
+        "options": [
+          "add to",
+          "go through",
+          "hit upon"
+        ],
+        "answer": "add to",
+        "expressionId": "add-to",
+        "explanation": "“Add to” means increase or make larger. The new stamps will increase the collection."
+      },
+      {
+        "id": "p3",
+        "prompt": "He hopes the strong economy will ____ more new jobs.",
+        "options": [
+          "go through",
+          "of its own accord",
+          "give rise to"
+        ],
+        "answer": "give rise to",
+        "expressionId": "give-rise-to",
+        "explanation": "“Give rise to” means cause something to happen. A strong economy may create more jobs."
+      },
+      {
+        "id": "p4",
+        "prompt": "The movie was, ____, one of the best films made this year.",
+        "options": [
+          "went through",
+          "day after day",
+          "in short"
+        ],
+        "answer": "in short",
+        "expressionId": "in-short",
+        "explanation": "“In short” introduces a brief summary. The speaker summarizes a positive opinion of the movie."
+      },
+      {
+        "id": "p5",
+        "prompt": "She made up her mind, ____, to quit her job and look for a new one.",
+        "options": [
+          "once and for all",
+          "have to",
+          "hit upon"
+        ],
+        "answer": "once and for all",
+        "expressionId": "once-and-for-all",
+        "explanation": "“Once and for all” means finally and decisively. She has made a firm decision."
+      },
+      {
+        "id": "p6",
+        "prompt": "The company ____ a new way to market its clothes.",
+        "options": [
+          "hit upon",
+          "went through",
+          "of its own accord"
+        ],
+        "answer": "hit upon",
+        "expressionId": "hit-upon",
+        "explanation": "“Hit upon” means suddenly thought of an idea. The company found a new marketing approach."
+      },
+      {
+        "id": "p7",
+        "prompt": "He looks sad because he is ____ a divorce right now.",
+        "options": [
+          "giving rise to",
+          "adding to",
+          "going through"
+        ],
+        "answer": "going through",
+        "expressionId": "go-through",
+        "explanation": "“Going through” means experiencing a difficult or unpleasant situation."
+      },
+      {
+        "id": "p8",
+        "prompt": "I want to find a job where I don't have to do exactly the same thing ____.",
+        "options": [
+          "in short",
+          "once and for all",
+          "day after day"
+        ],
+        "answer": "day after day",
+        "expressionId": "day-after-day",
+        "explanation": "“Day after day” means every day over a long period. The speaker wants work with more variety."
+      },
+      {
+        "id": "p9",
+        "prompt": "She ____ staying in town during the vacation because she didn't have money to travel.",
+        "options": [
+          "had to",
+          "resigned herself to",
+          "added to"
+        ],
+        "answer": "resigned herself to",
+        "expressionId": "resign-oneself-to",
+        "explanation": "“Resigned herself to” means accepted an unwanted situation she felt unable to change. It is followed here by “staying.”"
+      },
+      {
+        "id": "p10",
+        "prompt": "The lamp fell off the table ____. Nobody bumped it.",
+        "options": [
+          "of its own accord",
+          "resign itself to",
+          "give rise to"
+        ],
+        "answer": "of its own accord",
+        "expressionId": "of-ones-own-accord",
+        "explanation": "“Of its own accord” means by itself, without an external action causing it to move."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "In the car",
+    "sourcePdfPage": 5,
+    "wordBank": [
+      "day after day",
+      "have to",
+      "of your own accord",
+      "once and for all",
+      "add to",
+      "resign yourselves to"
+    ],
+    "lines": [
+      {
+        "id": "d1",
+        "speaker": "Nancy",
+        "text": "Mom! Jimmy is touching me!"
+      },
+      {
+        "id": "d2",
+        "speaker": "Mother",
+        "text": "Enough! I'm sick of asking you to stop! Can't you children behave ____?",
+        "answer": "of your own accord",
+        "expressionId": "of-ones-own-accord",
+        "explanation": "Mother wants the children to behave without having to be told."
+      },
+      {
+        "id": "d3",
+        "speaker": "Jimmy",
+        "text": "I didn't do anything. She's bothering me!"
+      },
+      {
+        "id": "d4",
+        "speaker": "Mother",
+        "text": "____ it’s the same thing! “He’s touching me!” “She’s bothering me!”",
+        "answer": "day after day",
+        "expressionId": "day-after-day",
+        "explanation": "The same complaints happen repeatedly every day."
+      },
+      {
+        "id": "d5",
+        "speaker": "Mother",
+        "text": "Are you going to stop this arguing, or do I ____ stop the car?",
+        "answer": "have to",
+        "expressionId": "have-to",
+        "explanation": "Mother asks whether stopping the car will be necessary."
+      },
+      {
+        "id": "d6",
+        "speaker": "Nancy",
+        "text": "He started it, mom."
+      },
+      {
+        "id": "d7",
+        "speaker": "Jimmy",
+        "text": "I did not!"
+      },
+      {
+        "id": "d8",
+        "speaker": "Mother",
+        "text": "I want you to stop this nonsense, ____!",
+        "answer": "once and for all",
+        "expressionId": "once-and-for-all",
+        "explanation": "Mother wants the arguing to stop completely and permanently."
+      },
+      {
+        "id": "d9",
+        "speaker": "Jimmy",
+        "text": "Nancy better stop it before she makes me really mad."
+      },
+      {
+        "id": "d10",
+        "speaker": "Nancy",
+        "text": "You can't make me."
+      },
+      {
+        "id": "d11",
+        "speaker": "Mother",
+        "text": "That's it! The two of you better ____ a quiet night at home. You're both grounded! No television! No toys! No friends! Nothing.",
+        "answer": "resign yourselves to",
+        "expressionId": "resign-oneself-to",
+        "explanation": "Mother tells both children to accept the punishment. “Yourselves” refers to the two children."
+      },
+      {
+        "id": "d12",
+        "speaker": "Mother",
+        "text": "And no more talking or I will ____ your punishment.",
+        "answer": "add to",
+        "expressionId": "add-to",
+        "explanation": "Mother warns that further talking will increase the punishment."
+      }
+    ]
+  },
+  "story": {
+    "title": "Idioms in context",
+    "sourcePdfPage": 6,
+    "paragraphs": [
+      "My son is going through adolescence. With all that is going on in his life, he has a hard time remembering simple instructions. This gives rise to some problems.",
+      "For example, Wednesday is the day to wash clothes at our house. My son used to always leave money in his pockets. He never checked his clothes of his own accord. Day after day I reminded him to do it, but he always forgot. I resigned myself to the fact that I’d have to keep checking his pockets for him.",
+      "Then I hit upon an idea to put a stop to my son’s bad habit once and for all. I told my son, “I am going to put any money that I find in your pockets in a jar. When I have collected enough money, you have to use it to take me out to dinner and a movie.” In short, I wanted to teach my son a lesson in a positive way.",
+      "On the next Wednesday, I looked into my son’s room. He didn’t see me. I watched him sit down on his bed and check all of his pockets for money. He took a few coins out of his pants. I was so happy! However, to my surprise, my son put the coins back into the pocket. Then he stood up and got his wallet out of his bag. He took out a dollar bill and added it to the coins in the pocket on purpose! I never thought he wanted to take his mother to dinner and a movie. I was flattered!"
+    ],
+    "highlights": [
+      {
+        "text": "going through",
+        "expressionId": "go-through"
+      },
+      {
+        "text": "gives rise to",
+        "expressionId": "give-rise-to"
+      },
+      {
+        "text": "of his own accord",
+        "expressionId": "of-ones-own-accord"
+      },
+      {
+        "text": "Day after day",
+        "expressionId": "day-after-day"
+      },
+      {
+        "text": "resigned myself to",
+        "expressionId": "resign-oneself-to"
+      },
+      {
+        "text": "have to",
+        "expressionId": "have-to"
+      },
+      {
+        "text": "hit upon",
+        "expressionId": "hit-upon"
+      },
+      {
+        "text": "once and for all",
+        "expressionId": "once-and-for-all"
+      },
+      {
+        "text": "In short",
+        "expressionId": "in-short"
+      },
+      {
+        "text": "added it to",
+        "expressionId": "add-to"
+      }
+    ]
+  }
+}
