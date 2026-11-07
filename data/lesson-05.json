@@ -1,0 +1,415 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-05",
+  "contentVersion": 1,
+  "number": 5,
+  "title": "Memory, messages & misunderstandings",
+  "subtitle": "An office mix-up, a new apartment, and a surprising phone call.",
+  "source": {
+    "file": "5 Illustrated_Everyday_Expressions_with_Stories_2.pdf",
+    "lesson": 5,
+    "pdfPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "printedExercisePages": [
+      35,
+      36
+    ],
+    "answerKey": "Answers inferred from the lesson definitions and exercise context; no published answer key is present in the supplied PDF.",
+    "transcription": "Obvious OCR errors and line-break hyphenation corrected. Exercise wording and option order retained except for explicitly noted typographical corrections. Long dialogue turns with multiple blanks are split into consecutive entries with the same speaker so that every entry contains one blank. The story retains the six source paragraphs. The missing “you” in the example question “How did remember...” is restored for grammar. The source’s differing spellings “Mike William’s” and “Mike Williams” are retained."
+  },
+  "expressions": [
+    {
+      "id": "as-of-yet",
+      "phrase": "as of yet",
+      "meaning": "until this time; so far",
+      "examples": [
+        "As of yet, he has not been paid by the company.",
+        "The date for the final test has not been announced as of yet."
+      ],
+      "dialogue": [
+        "A: Are the new computers in?",
+        "B: I'm sorry, sir. They have not arrived as of yet."
+      ]
+    },
+    {
+      "id": "at-ones-fingertips",
+      "phrase": "at one's fingertips",
+      "meaning": "easily available; at hand",
+      "examples": [
+        "I don't have that information at my fingertips right now. Can you wait a minute?",
+        "Keep all of your important papers at your fingertips at all times."
+      ],
+      "dialogue": [
+        "A: Wow! Your Palm Pilot is really great!",
+        "B: Yeah. It keeps important information right at my fingertips."
+      ]
+    },
+    {
+      "id": "brand-new",
+      "phrase": "brand-new",
+      "meaning": "never used; totally new",
+      "examples": [
+        "Their brand-new car was stolen yesterday.",
+        "I bought a brand-new stereo to go with my television and DVD player."
+      ],
+      "dialogue": [
+        "A: Your shoes look very clean.",
+        "B: Actually, they're brand-new."
+      ]
+    },
+    {
+      "id": "cut-in",
+      "phrase": "cut in",
+      "meaning": "go in front of someone unfairly; interrupt someone talking",
+      "examples": [
+        "I hate it when people cut in line at the movies.",
+        "She was telling a joke but her brother cut in and told the rest of it."
+      ],
+      "dialogue": [
+        "A: That man just cut in front of us!",
+        "B: How rude!"
+      ]
+    },
+    {
+      "id": "dwell-on",
+      "phrase": "dwell on",
+      "meaning": "worry about or consider for a long time",
+      "examples": [
+        "She could not help dwelling on the fact that her mother was sick.",
+        "I know you lost your wallet, but try not to dwell on it."
+      ],
+      "dialogue": [
+        "A: I can't stop thinking about my old girlfriend.",
+        "B: Don't dwell on her. I'm sure you will find love again."
+      ]
+    },
+    {
+      "id": "get-a-hold-of",
+      "phrase": "get a hold of",
+      "meaning": "contact; reach",
+      "examples": [
+        "He couldn't get hold of his friend to tell him the plans were changed.",
+        "Please write down a phone number where we can get a hold of you."
+      ],
+      "dialogue": [
+        "A: Did you get a hold of Mike?",
+        "B: No. His line was busy."
+      ]
+    },
+    {
+      "id": "learn-by-heart",
+      "phrase": "learn (something) by heart",
+      "meaning": "memorize; study to know without thinking",
+      "examples": [
+        "She can't read music, so she learns all the songs by heart.",
+        "I had to learn the whole book by heart in elementary school."
+      ],
+      "dialogue": [
+        "A: How did you remember all those math equations?",
+        "B: I learned them by heart."
+      ]
+    },
+    {
+      "id": "mix-up",
+      "phrase": "mix up",
+      "meaning": "confuse",
+      "examples": [
+        "I mixed up your names. Could you say that again?",
+        "The office mixed up the addresses and sent the wrong forms to the two customers."
+      ],
+      "dialogue": [
+        "A: You are supposed to come tomorrow, not today.",
+        "B: Sorry! I mixed up the dates."
+      ]
+    },
+    {
+      "id": "take-by-surprise",
+      "phrase": "take by surprise",
+      "meaning": "surprise; come without warning",
+      "examples": [
+        "His friend's visit took him by surprise.",
+        "When he asked her to marry him, he took her completely by surprise."
+      ],
+      "dialogue": [
+        "A: I can't believe that your mother joined the army!",
+        "B: Yes. She took us all by surprise."
+      ]
+    },
+    {
+      "id": "take-time-off",
+      "phrase": "take time off",
+      "meaning": "miss work for some time with permission",
+      "examples": [
+        "I have to take time off next week to go to the doctor.",
+        "Our company is very strict about taking time off."
+      ],
+      "dialogue": [
+        "A: Why don't we go to Paris next weekend?",
+        "B: I'm not sure if I can take time off work."
+      ]
+    }
+  ],
+  "practice": {
+    "title": "Choose the best answer",
+    "sourcePdfPage": 4,
+    "questions": [
+      {
+        "id": "p1",
+        "prompt": "She has not come home ____. I don't know where she is.",
+        "options": [
+          "as of yet",
+          "brand-new",
+          "at her fingertips"
+        ],
+        "answer": "as of yet",
+        "expressionId": "as-of-yet",
+        "explanation": "“As of yet” means so far or up to this time. She has still not arrived home."
+      },
+      {
+        "id": "p2",
+        "prompt": "He bought a ____ television because the screen on his old one was too small.",
+        "options": [
+          "at his fingertips",
+          "as of yet",
+          "brand-new"
+        ],
+        "answer": "brand-new",
+        "expressionId": "brand-new",
+        "explanation": "“Brand-new” means completely new and unused. It describes the television he bought."
+      },
+      {
+        "id": "p3",
+        "prompt": "People often ____ the words “their,” “there,” and “they’re” when writing.",
+        "options": [
+          "take time off",
+          "mix up",
+          "dwell on"
+        ],
+        "answer": "mix up",
+        "expressionId": "mix-up",
+        "explanation": "“Mix up” means confuse one thing with another. These words are often confused because they sound alike."
+      },
+      {
+        "id": "p4",
+        "prompt": "I couldn't ____ anyone at the main office. No one would answer the phone.",
+        "options": [
+          "take by surprise",
+          "learn by heart",
+          "get a hold of"
+        ],
+        "answer": "get a hold of",
+        "expressionId": "get-a-hold-of",
+        "explanation": "“Get a hold of” means contact or reach someone. No one answered the call."
+      },
+      {
+        "id": "p5",
+        "prompt": "The boys tried to ____ line for the roller coaster.",
+        "options": [
+          "mix up",
+          "cut in",
+          "dwell on"
+        ],
+        "answer": "cut in",
+        "expressionId": "cut-in",
+        "explanation": "“Cut in line” means go ahead of other people unfairly instead of waiting your turn."
+      },
+      {
+        "id": "p6",
+        "prompt": "I admire actors because of all the lines they have to ____!",
+        "options": [
+          "learn by heart",
+          "take time off",
+          "mix up"
+        ],
+        "answer": "learn by heart",
+        "expressionId": "learn-by-heart",
+        "explanation": "“Learn by heart” means memorize. Actors must remember their lines."
+      },
+      {
+        "id": "p7",
+        "prompt": "She was ____ by all of the people who came to her birthday party.",
+        "options": [
+          "got hold of",
+          "taken by surprise",
+          "cut in"
+        ],
+        "answer": "taken by surprise",
+        "expressionId": "take-by-surprise",
+        "explanation": "“Taken by surprise” means surprised by something unexpected. The number of guests surprised her."
+      },
+      {
+        "id": "p8",
+        "prompt": "His filing system is excellent. All of the important information he needs is ____.",
+        "options": [
+          "brand-new",
+          "at his fingertips",
+          "as of yet"
+        ],
+        "answer": "at his fingertips",
+        "expressionId": "at-ones-fingertips",
+        "explanation": "“At his fingertips” means easily available. His filing system makes information easy to find."
+      },
+      {
+        "id": "p9",
+        "prompt": "Some husbands ____ from work after their wives have a baby.",
+        "options": [
+          "take time off",
+          "mix up",
+          "learn by heart"
+        ],
+        "answer": "take time off",
+        "expressionId": "take-time-off",
+        "explanation": "“Take time off” means have permission to be away from work for a period."
+      },
+      {
+        "id": "p10",
+        "prompt": "It does not do any good to ____ your mistakes. Forget them and go on.",
+        "options": [
+          "dwell on",
+          "take by surprise",
+          "get hold of"
+        ],
+        "answer": "dwell on",
+        "expressionId": "dwell-on",
+        "explanation": "“Dwell on” means keep thinking or worrying about something for a long time."
+      }
+    ]
+  },
+  "dialogue": {
+    "title": "At the office",
+    "sourcePdfPage": 5,
+    "wordBank": [
+      "get a hold of",
+      "at my fingertips",
+      "learn by heart",
+      "mixed up",
+      "take time off",
+      "as of yet"
+    ],
+    "lines": [
+      {
+        "id": "d1",
+        "speaker": "Tom",
+        "text": "Carol, has Bob come in to work yet?"
+      },
+      {
+        "id": "d2",
+        "speaker": "Carol",
+        "text": "Not ____. Would you like me to call him?",
+        "answer": "as of yet",
+        "expressionId": "as-of-yet",
+        "explanation": "Bob has not arrived up to this point in time."
+      },
+      {
+        "id": "d3",
+        "speaker": "Tom",
+        "text": "Yes, please. Do you know his phone number?"
+      },
+      {
+        "id": "d4",
+        "speaker": "Carol",
+        "text": "Yes, I keep all of the sales representatives' contact numbers ____ here on my desk.",
+        "answer": "at my fingertips",
+        "expressionId": "at-ones-fingertips",
+        "explanation": "Carol keeps the phone numbers readily available on her desk."
+      },
+      {
+        "id": "d5",
+        "speaker": "Carol",
+        "text": "There are just too many to ____!",
+        "answer": "learn by heart",
+        "expressionId": "learn-by-heart",
+        "explanation": "There are too many numbers to memorize."
+      },
+      {
+        "id": "d6",
+        "speaker": "Tom",
+        "text": "See if he is at home. I think we ____ the vacation schedule.",
+        "answer": "mixed up",
+        "expressionId": "mix-up",
+        "explanation": "Tom suspects that someone confused the vacation arrangements."
+      },
+      {
+        "id": "d7",
+        "speaker": "Tom",
+        "text": "Both Bob and Sam asked to ____ the same week. Sam was given the vacation, but Bob wasn't. But I don't know if Bob was told the right information.",
+        "answer": "take time off",
+        "expressionId": "take-time-off",
+        "explanation": "Both employees asked for permission to be away from work."
+      },
+      {
+        "id": "d8",
+        "speaker": "Carol",
+        "text": "I'll call him as soon as I get a chance."
+      },
+      {
+        "id": "d9",
+        "speaker": "Tom",
+        "text": "Thanks, Carol. Let me know if you ____ him.",
+        "answer": "get a hold of",
+        "expressionId": "get-a-hold-of",
+        "explanation": "Tom wants to know whether Carol succeeds in contacting Bob."
+      }
+    ]
+  },
+  "story": {
+    "title": "Idioms in context",
+    "sourcePdfPage": 6,
+    "paragraphs": [
+      "My boyfriend took time off from work one Friday to move to a new apartment. It was a lot of hard work. When I got home later that evening, I was exhausted. I wanted to give my boyfriend a call and cancel our plans for the next day.",
+      "My boyfriend also got a brand-new phone number for his new apartment, but as of yet I had not learned it by heart. I usually keep all the phone numbers I need at my fingertips in my day planner. Unfortunately, I had not written his number down. The only way I could think of to get a hold of my boyfriend was to call the operator and ask for Mike William’s phone number.",
+      "I called the number that the operator gave me, but I was taken by surprise when a woman answered the phone. “Hello,” she said. I asked, “Can I speak to Mike?” The woman said, “He is taking a shower right now.” I was shocked. At first, I didn’t say anything. “Is there anything that...?” she started to ask, but I cut in. “Tell him to call his girlfriend when he gets out of the shower.” I hung up the phone quickly without waiting for the woman’s answer. I was a bit upset. However, I tried not to dwell on the fact that a woman was in my boyfriend’s apartment while he was in the shower. I knew Mike made friends with the neighbors when he moved in, so I assumed the woman was his neighbor. She was probably just helping him clean the place up.",
+      "An hour passed and Mike had not called me back. I called again, and a man answered the phone. “Hello,” he said. The voice was strange.",
+      "All of a sudden I realized that it was the wrong number. The operator had mixed up my boyfriend’s number with another man named Mike Williams. I said, “You’re not Mike!”",
+      "The man said, “And you’re not my girlfriend. I’ve been trying to explain that to my wife for over an hour.”"
+    ],
+    "highlights": [
+      {
+        "text": "took time off",
+        "expressionId": "take-time-off"
+      },
+      {
+        "text": "brand-new",
+        "expressionId": "brand-new"
+      },
+      {
+        "text": "as of yet",
+        "expressionId": "as-of-yet"
+      },
+      {
+        "text": "learned it by heart",
+        "expressionId": "learn-by-heart"
+      },
+      {
+        "text": "at my fingertips",
+        "expressionId": "at-ones-fingertips"
+      },
+      {
+        "text": "get a hold of",
+        "expressionId": "get-a-hold-of"
+      },
+      {
+        "text": "taken by surprise",
+        "expressionId": "take-by-surprise"
+      },
+      {
+        "text": "cut in",
+        "expressionId": "cut-in"
+      },
+      {
+        "text": "dwell on",
+        "expressionId": "dwell-on"
+      },
+      {
+        "text": "mixed up",
+        "expressionId": "mix-up"
+      }
+    ]
+  }
+}
